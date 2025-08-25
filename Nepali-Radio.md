@@ -1,0 +1,34 @@
+# Privacy Policy – Nepali Radio
+
+**Last updated:** August 25, 2025  
+
+Nepali Radio (“we,” “our,” or “the app”) respects your privacy. This Privacy Policy explains how our app works and how we handle user information.  
+
+## Information We Collect
+
+Nepali Radio **does not collect any personal information** from users. We do not require registration, logins, or any form of user data to use the app.  
+
+The app fetches radio station lists from a public API and streams audio content. We **only access internet resources necessary to play the radio**.  
+
+## How the App Works
+
+- Users can view a list of Nepali radio stations provided via an API.  
+- Users can tap a station to start streaming audio.  
+- Audio playback continues in the background and is available on the lock screen.  
+
+## Data Sharing
+
+Since we do **not collect any personal information**, there is nothing shared with third parties.  
+
+## Security
+
+We do not store user data, so no personal data is at risk. All streams are delivered via standard network requests.  
+
+## Changes to This Privacy Policy
+
+We may update this policy occasionally. Updates will be reflected here.  
+
+## Contact Us
+
+For any questions about this Privacy Policy, please contact us at:  
+**Email:** nexuswhitehat@gmail.com
